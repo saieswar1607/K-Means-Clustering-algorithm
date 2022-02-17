@@ -30,51 +30,51 @@ Import seaborn
 <br>
 Import warnings
 
-###step6
+### step6
 <br>
 Declare warnings.filerwarning with ignore as argument
 
-###step7
+### step7
 <br>
 Declare a variable x1 and read a csv file(clustering.csv) in it.
 
-###step8
+### step8
 <br>
 Declare a variable x2 as index of x1 with arguments ApplicantIncome and LoanAmount.
 
-###step9
+### step9
 <br>
 Display x1.head(2) and x2.head(2).
 
-###step10
+### step10
 <br>
 Declare a variable x and store x2.values.
 
-###step11
+### step11
 <br>
 Declare sns.scatterplot for ApplicantIncome and LoanAmount by indexing
 
-###step12
+### step12
 <br>
 Plot Income , Loan and display them.
 
-###step13
+### step13
 <br>
 Declare a variable kmean = KMean(n_cluster_centers_) and execute kmean.fit(x).
 
-###step14
+### step14
 <br>
 Display kmean.cluster)centers
 
-###step15
+### step15
 <br>
 Display kmean.labels_
 
-###step16
+### step16
 <br>
 Declare a variable predcited_class to kmean.predict([[]]) and give two arguments in it.
 
-###step17
+### step17
 <br>
 Display the predicted_class
 
